@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="[(https://graph.org/file/c413b527220e996344a04.jpg)] " alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
@@ -28,7 +28,7 @@
 
 ## Variables
 
-Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up with your edits.
+Read [this](https://telegram.dog/Tamilan_bots_official/8) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincess">
+<a href="https://heroku.com/deploy?template=https://github.com/Sebastin123/LazyPrincess">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -113,11 +113,11 @@ python3 bot.py
 
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Tamilan_botz_support)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Tamilan_bots_official)
 
 ## Credits 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
+* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/ayseditz)
 
 
 ## Thanks to 
@@ -131,7 +131,7 @@ python3 bot.py
 
 ### Note
 
-[Join Main Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper 🎁
+[Join Main Channel](https://telegram.dog/Tamilan_bots_official): LazyDeveloper 🎁
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
